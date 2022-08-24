@@ -1,0 +1,3 @@
+ENTITY_REBIRTH {
+	ReviveEntity(entity = $obj1, pos = { x = 15.0, y = 53.0, z = 4.0 })
+}
