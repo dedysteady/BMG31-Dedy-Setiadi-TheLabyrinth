@@ -1,0 +1,111 @@
+{
+  "_clientScript": [],
+  "_serverScript": [],
+  "actorGirlName": "asset/Actor/Blue Floating Ghost/g2034_robotSkin_ghost.actor",
+  "actorName": "asset/Actor/Apron Zombie/Citizen Zombie.actor",
+  "aiFixSpeedRate": 2,
+  "attackNpc": false,
+  "autoAttack": true,
+  "autoMove": false,
+  "autoRotateColliderBox": true,
+  "avoidCliff": true,
+  "avoidCliffHight": 5,
+  "boundingScaleWithSize": true,
+  "canClick": false,
+  "canHurtMove": true,
+  "canJump": true,
+  "canMove": true,
+  "canPickOnDie": false,
+  "canTurnHead": false,
+  "castRealShadowAtFirstPRV": false,
+  "chaseDistance": 5,
+  "chaseInterval": 10,
+  "checkPartTouchEvent": true,
+  "clickDistance": 4,
+  "collider": {
+    "extent": {
+      "x": 0.6,
+      "y": 1.8,
+      "z": 0.6
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "type": "Box"
+  },
+  "collision": false,
+  "damage": 10,
+  "deathHideTime": 20,
+  "destroyTime": 0,
+  "disableShadow": true,
+  "disableShadowAtFirstPRV": true,
+  "dropDamageRatio": 0,
+  "dropDamageStart": 1.5,
+  "enableAI": true,
+  "enableMeshNavigate": false,
+  "enableNavigate": true,
+  "equipTrays": [],
+  "eyeHeight": 1.62,
+  "followEntityDistanceWhenHasTarget": 10,
+  "followEntityDistanceWhenNotTarget": 5,
+  "gravity": 0.08,
+  "headPic": "",
+  "hideHolder": false,
+  "hideHp": 0,
+  "hideName": false,
+  "homeSize": 20,
+  "hpBarColor": 4294967551,
+  "hpBarHeight": 0.2,
+  "hpBarWidth": 1,
+  "hpFaceCamera": 0,
+  "hurtResistantTime": 0,
+  "idleProb": 0,
+  "idleTime": [
+    10,
+    110
+  ],
+  "isAIGoHomePos": false,
+  "isPlayer": false,
+  "jumpHeight": 0.6,
+  "jumpSpeed": 0.5,
+  "maxHp": 20,
+  "maxVisualAngle": 360,
+  "meetCliffBackRun": true,
+  "moveAcc": 0.2,
+  "moveFactor": 1,
+  "moveSpeed": 0.2,
+  "name": "entity_4b44af35-02ce-4054-9d3c-dfe997f7209f",
+  "needCheckTouch": true,
+  "nextChaseInterval": 2,
+  "patrolDistance": 20,
+  "randomPlayDeadActions": [
+    ""
+  ],
+  "reachDistance": 6.5,
+  "reviveTime": 40,
+  "setFollowWhenCreate": true,
+  "skillInfoList": [
+    {
+      "__OBJ_TYPE": "AI_Skill",
+      "attackDis": 4,
+      "fullName": "myplugin/ee85832e-17df-434a-949d-9a7d44bb16c7",
+      "priority": 0
+    }
+  ],
+  "skillInfos": [
+    "myplugin/ee85832e-17df-434a-949d-9a7d44bb16c7"
+  ],
+  "stepHeight": 0.6,
+  "swimSpeed": 0.2,
+  "textHeight": 2.3,
+  "unassailable": 0,
+  "undamageable": 0,
+  "waterline": 0
+}

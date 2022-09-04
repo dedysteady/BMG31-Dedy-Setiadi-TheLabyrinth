@@ -1,0 +1,84 @@
+{
+  "autoRotateColliderBox": true,
+  "collideBlock": 1,
+  "collideEntity": 6,
+  "collider": {
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "radius": 0.5,
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "type": "Sphere"
+  },
+  "followTarget": false,
+  "followTargetRotation": true,
+  "followTargetRotationOffset": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "gravity": 0,
+  "hitBlockCount": 0,
+  "hitCount": 0,
+  "hitEntityCount": 1,
+  "hitEntityEffect": {
+    "effect": "@asset/effect/Purple Dark Power Effect/gfxy_dark force_purple.effect",
+    "once": false,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "yaw": 0
+  },
+  "hitEntitySkill": "myplugin/Tornado",
+  "hitEntitysRoles": [
+    "hitAllTeam",
+    "hitAllEntitys",
+    "hitAllConfigEntity"
+  ],
+  "hitInterval": 10,
+  "isPitch": true,
+  "lifeTime": 100,
+  "lockRotateBodyPitch": 0,
+  "lockRotateBodyRoll": 0,
+  "lockRotateBodyYaw": 0,
+  "modelSizeScale": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  },
+  "moveAcc": 0,
+  "moveSpeed": 2,
+  "rotateFree": true,
+  "rotateSpeed": 0,
+  "startEffect": {
+    "effect": "@asset/effect/Purple Dark Power Effect/gfxy_dark force_zi.effect",
+    "once": true,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 5
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "yaw": 0
+  },
+  "startWithMoveAcc": true,
+  "vanishShow": false,
+  "vanishTime": 10
+}

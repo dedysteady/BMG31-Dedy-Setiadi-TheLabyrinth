@@ -1,0 +1,357 @@
+{
+  "bake_texture_size": 64,
+  "blinn": 0,
+  "canBreak": true,
+  "hdr": 0,
+  "hideCloud": true,
+  "is_bake_light_effect_visible": false,
+  "scene": [
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/4b44af35-02ce-4054-9d3c-dfe997f7209f",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8772665254211878913",
+        "isVisibleInEditor": "true",
+        "name": "Monster",
+        "needSync": "true",
+        "position": "x:15.1462955474854 y:53.0030403137207 z:11.7920980453491",
+        "rotation": "x:0 y:81.9992065429688 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/4b44af35-02ce-4054-9d3c-dfe997f7209f",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8772666913756102657",
+        "isVisibleInEditor": "true",
+        "name": "Monster",
+        "needSync": "true",
+        "position": "x:17.3268127441406 y:53 z:27.914005279541",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8772667681711718401",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:13.5745801925659 y:53.0027732849121 z:40.0193901062012",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8772667723765530625",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:17.4716682434082 y:53.0007781982422 z:48.9679412841797",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/4b44af35-02ce-4054-9d3c-dfe997f7209f",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787909289478602753",
+        "isVisibleInEditor": "true",
+        "name": "Monster",
+        "needSync": "true",
+        "position": "x:31.5482311248779 y:53.0000114440918 z:40.0061683654785",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/4b44af35-02ce-4054-9d3c-dfe997f7209f",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787909380260691969",
+        "isVisibleInEditor": "true",
+        "name": "Monster",
+        "needSync": "true",
+        "position": "x:46.1600646972656 y:53 z:15.0732975006104",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/4b44af35-02ce-4054-9d3c-dfe997f7209f",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787909487456878593",
+        "isVisibleInEditor": "true",
+        "name": "Monster",
+        "needSync": "true",
+        "position": "x:51.8851318359375 y:53.0000038146973 z:50.703441619873",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910296307204097",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:26.0890827178955 y:53 z:21.060791015625",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910321509154817",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:45.5621795654297 y:53.0000038146973 z:28.9035625457764",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910361296191489",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:54.2225189208984 y:52.1147727966309 z:33.3000869750977",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910432039829505",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:55.5380668640137 y:53.0000038146973 z:18.3032646179199",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910560050626561",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:36.220100402832 y:52.9999961853027 z:48.5558052062988",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787910659005038593",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:45.0444412231445 y:53.0052032470703 z:48.7253150939941",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    },
+    {
+      "attributes": [],
+      "class": "Entity",
+      "config": "myplugin/ebfdac60-d222-4861-9fae-4499bc3ed7ee",
+      "customProperties": [],
+      "properties": {
+        "bakeTextureWeight": "1",
+        "batchType": "Static",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
+        "collisionGroup": "1",
+        "id": "8787922702816673793",
+        "isVisibleInEditor": "true",
+        "name": "Zombie Es",
+        "needSync": "true",
+        "position": "x:10.9533681869507 y:53.0092353820801 z:21.0084457397461",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false",
+        "useForCollision": "false"
+      }
+    }
+  ],
+  "skyBox": [
+    {
+      "texture": [
+        "@asset/Texture/SkyBox/Common2/Sky03_right.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_left.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_top.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_bottom.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_back.png",
+        "@asset/Texture/SkyBox/Common2/Sky03_front.png"
+      ]
+    }
+  ],
+  "skyBoxMode": "static_display",
+  "skyBoxRotate": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "skyBoxTexPixFmt": "RGBA8",
+  "skyBoxTexSize": 512,
+  "touchPosY": {
+    "touchdownPosY": -30,
+    "touchupPosY": 600
+  },
+  "useLod": false
+}

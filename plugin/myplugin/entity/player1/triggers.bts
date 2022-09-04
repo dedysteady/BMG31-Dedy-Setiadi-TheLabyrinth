@@ -1,0 +1,8 @@
+HIT_ENTITY {
+	Damage(damage = 20, entity = $obj2, from = $obj1)
+}
+
+ENTITY_DIE {
+	ReviveEntity(entity = $obj1, pos = { x = 24, y = 53, z = 2 })
+	ReviveEntity(entity = $obj1, pos = { x = 15, y = 53, z = 2 })
+}
