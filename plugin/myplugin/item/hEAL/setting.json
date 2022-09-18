@@ -1,0 +1,16 @@
+{
+  "canAbandon": false,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "dropSpeed": 0.2,
+  "icon": "@asset/Texture/Block/flower_houstonia.png",
+  "itemname": "item_hEAL",
+  "needSave": false,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

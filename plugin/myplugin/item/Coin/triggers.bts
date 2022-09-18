@@ -1,0 +1,4 @@
+USE_ITEM {
+	ExecScript(Clicker = $obj1, script_name = "ScriptableNode_3")
+	ConsumeItem2(entity = $obj1, item = "myplugin/Coin", num = 1, reason = "")
+}

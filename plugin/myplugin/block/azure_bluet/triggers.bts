@@ -1,0 +1,4 @@
+BLOCK_CLICK {
+	RecoverFullHp(entity = $obj1)
+	AddEntityBuff(buffTime = 0, cfg = "myplugin/Wind", entity = $obj1)
+}
