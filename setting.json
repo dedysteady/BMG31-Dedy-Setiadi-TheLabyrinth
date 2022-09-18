@@ -1,6 +1,6 @@
 {
   "automatch": true,
-  "bagCap": 5,
+  "bagCap": 9,
   "batchType": "Dynamic",
   "cameraCfg": {
     "canSwitchView": false,
@@ -129,14 +129,14 @@
   },
   "maxPlayers": 4,
   "meshPartStaticMergeRender": true,
-  "minPlayers": 2,
+  "minPlayers": 1,
   "moveStateConfig": {
     "isShow": false
   },
-  "needSave": false,
+  "needSave": true,
   "noLoadHp": true,
   "notReadUserSettingCfgAtEditor": true,
-  "nowTime": 10666.6666666667,
+  "nowTime": 9666.66666666666,
   "oneDayTime": 600,
   "partGameStaticBatch": true,
   "personalSettingUI": {
@@ -312,6 +312,30 @@
           "z": 6
         }
       ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 4,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_4.png",
+      "initPos": {
+        "map": "map001",
+        "x": 61,
+        "y": 53,
+        "z": 59
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team4",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 60,
+          "y": 53,
+          "z": 58
+        }
+      ]
     }
   ],
   "teammateHurt": true,
@@ -363,14 +387,7 @@
   "vars": {
     "__OBJ_TYPE": [],
     "entity": [],
-    "global": [
-      {
-        "key": "coin",
-        "run_type": "server",
-        "save": false,
-        "value": 0
-      }
-    ],
+    "global": [],
     "ui": []
   },
   "waitAtInitPos": true,

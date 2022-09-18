@@ -1,2 +1,2 @@
 print('script_common:hello world')
-Entity.addValueDef("Score", 0,true, true, false, true)
+Entity.addValueDef("score", 0,true, true, false, true)

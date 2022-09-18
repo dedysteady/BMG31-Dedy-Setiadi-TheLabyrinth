@@ -1,0 +1,45 @@
+<ActorTemplates>
+	<ActorTemplate Skeleton="bone001.skel" SoundFileNum="0" SoundName1="" IsShowShadow="true" SelectedRingSize="1" AttackScale="1" SoundName2="" TextHeight="0" SoundName5="" SoundName3="" MaxDistance="16" Volume="0.8" Originalscale="1 1 1" SoundName4="" WoundBone="" name="elf_iron_blue.actor" WoundAngle="25" Alpha="1" MinDistance="1" IntervalTime="2">
+		<BodyParts>
+			<BodyPart DefaultUse="true" ColorParams="1 1 1 1" EdgeColor="1 1 1 1" SlaveName="blue_yin" MasterName="body">
+				<Effect>
+					<scale value="2"/>
+					<roll value="0"/>
+					<SocketName value="bone001"/>
+					<Position_Y value="0.9"/>
+					<yaw value="0"/>
+					<Position_Z value="0"/>
+					<pitch value="0"/>
+					<Position_X value="0"/>
+					<Alpha value="1"/>
+					<FileName value="asset/Effect/Roles/yuleit2_01.effect"/>
+					<TimeScale value="1"/>
+				</Effect>
+				<StaticMesh>
+					<scale value="4"/>
+					<roll value="0"/>
+					<SocketName value="bone001"/>
+					<Position_Y value="0"/>
+					<yaw value="0"/>
+					<Position_Z value="0"/>
+					<pitch value="0"/>
+					<FileName value="asset/Mesh/Actor_mesh/jingling_blue.mesh"/>
+					<Position_X value="0"/>
+				</StaticMesh>
+				<StaticMesh>
+					<scale value="4"/>
+					<roll value="0"/>
+					<SocketName value="bone001"/>
+					<Position_Y value="0"/>
+					<yaw value="0"/>
+					<Position_Z value="0"/>
+					<pitch value="0"/>
+					<FileName value="asset/Mesh/Actor_mesh/yin.mesh"/>
+					<Position_X value="0"/>
+				</StaticMesh>
+			</BodyPart>
+		</BodyParts>
+		<Anims/>
+		<Skills/>
+	</ActorTemplate>
+</ActorTemplates>

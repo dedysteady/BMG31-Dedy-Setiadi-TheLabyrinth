@@ -1,6 +1,6 @@
 {
   "canAbandon": false,
-  "candrop": false,
+  "candrop": true,
   "canEquipPlural": true,
   "canUse": true,
   "dropSpeed": 0.2,
