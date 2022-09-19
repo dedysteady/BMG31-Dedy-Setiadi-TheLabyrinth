@@ -8,21 +8,24 @@
 
 This repository for Blockman Go Project and Production Plan from starting the project until finish the project.
 
-## Week 1
-Task List Week 1 : https://dedysteady.notion.site/d94656e415424aa490f0fe5b00b83e91?v=fed88c45c4d8409fb16a072d9e885831
+## Week 4
+Task List Week 4 : https://dedysteady.notion.site/d94656e415424aa490f0fe5b00b83e91?v=5aa89e3604514aecab52ccac96014c57
 
-Week 1 <br>
-Nama fitur: Map & Monster <br>
+Week 4 <br>
+### Nama fitur: Teleport <br>
 Rincian fitur:
-- Membuat Map Labyrinth pada template Block Template di Blockman Editor <br>
-- Membuat Enemy yang bisa menyerang
+- Membuat teleport dan random spawn
 
 Tingkat kesulitan: Sedang <br>
 Penjelasan: <br>
-Agak butuh waktu lagi untuk membuat Map Labyrinth yang menarik dan bagus. Kesulitan di minggu ini lebih ke waktu dan membuat enemy yang dapat menyerang dan menarik. <br>
+Untuk pembuatan teleport cukup mudah namun pembuatan random spawn agak sulit. Jadi seperti yang sudah dijelaskan di week 3 bahwa saya ubah random spawn pemain menjadi team sehingga pemain memiliki titik spawn yang berbeda-beda. Untuk enemy mereka tetap di titik spawn yang sama ketika mati. <br>
 
 
-https://www.notion.so/dedysteady/d94656e415424aa490f0fe5b00b83e91?v=fed88c45c4d8409fb16a072d9e885831
-![Screenshot (23)](https://user-images.githubusercontent.com/45990233/186725881-ed986f57-be48-4d47-9147-6e2f291d31cb.png)
-![Screenshot (20)](https://user-images.githubusercontent.com/45990233/186725893-b5cde90e-b5ad-4e85-a7f0-30550f58cf90.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/45990233/186725922-941da288-2c86-4560-a063-fc335ef3d4c4.png)
+### Nama fitur: Polishing <br>
+Rincian fitur:
+- Memperbaiki Feature yang rusak
+
+Tingkat kesulitan: Sedang <br>
+Penjelasan: <br>
+Polishing adalah tahapan terakhir dimana ketika semua sudah dikerjakan. Dari projek saya sudah semua dikerjakan hanya saja mungkin saya butuh win condition agar gamenya lebih seru lagi. Akan tetapi tanpa win condition pun saya rasa sudah bisa dimainkan secara multiplayer karena adanya sistem rank dan collecting item dan coin <br>
+
