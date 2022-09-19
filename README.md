@@ -21,6 +21,7 @@ Rincian fitur:
   3. Tornado damage 20
 
 Tingkat kesulitan: Sedang <br>
+
 Penjelasan: <br>
 Untuk fitur ini sedikit susah-susah gampang karena kadang baik enemy atau player saat mengeluarkan skill tidak terkena damage. <br>
 
@@ -37,6 +38,7 @@ Rincian fitur:
 - Respawn Player Sound
 
 Tingkat kesulitan: Sedang <br>
+
 Penjelasan: <br>
 Untuk fitur ini sebenarnya mudah karena tinggal memasukkan suara saja, namun ternyata ada beberapa yang sepertinya harus melalui codingan <br>
 
@@ -48,6 +50,7 @@ Rincian fitur:
 - Item Usable : Potion, Coin, Trap
 
 Tingkat kesulitan: Mudah <br>
+
 Penjelasan: <br>
 Pembuatan item termasuk mudah, hanya bermain logikanya saja. <br>
 
