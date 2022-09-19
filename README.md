@@ -12,15 +12,16 @@ This repository for Blockman Go Project and Production Plan from starting the pr
 Task List Week 1 : https://dedysteady.notion.site/d94656e415424aa490f0fe5b00b83e91?v=fed88c45c4d8409fb16a072d9e885831
 
 Week 1 <br>
-Nama fitur: Map & Monster <br>
+### Nama fitur: Map & Monster <br>
+
 Rincian fitur:
 - Membuat Map Labyrinth pada template Block Template di Blockman Editor <br>
 - Membuat Enemy yang bisa menyerang
 
 Tingkat kesulitan: Sedang <br>
+
 Penjelasan: <br>
 Agak butuh waktu lagi untuk membuat Map Labyrinth yang menarik dan bagus. Kesulitan di minggu ini lebih ke waktu dan membuat enemy yang dapat menyerang dan menarik. <br>
-
 
 https://www.notion.so/dedysteady/d94656e415424aa490f0fe5b00b83e91?v=fed88c45c4d8409fb16a072d9e885831
 ![Screenshot (23)](https://user-images.githubusercontent.com/45990233/186725881-ed986f57-be48-4d47-9147-6e2f291d31cb.png)
