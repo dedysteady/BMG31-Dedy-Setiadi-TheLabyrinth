@@ -1,0 +1,4 @@
+HAND_ITEM_CHANGED_HAND {
+	AddBlockItem(block = "myplugin/mob_spawner", count = 1, entity = $obj1, reason = "")
+	ConsumeItem2(entity = $obj1, item = "myplugin/Tembok", num = 1, reason = "")
+}

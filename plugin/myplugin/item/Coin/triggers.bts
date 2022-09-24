@@ -1,0 +1,8 @@
+HAND_ITEM_CHANGED_HAND {
+	ExecScript(Clicker = $obj1, script_name = "ScriptableNode_7")
+	ConsumeItem2(entity = $obj1, item = "myplugin/Coin", num = 1, reason = "")
+}
+
+DROPITEM_PICKED {
+	SpawnItemToWorld(count = 1, fullName = "myplugin/Coin", pos = GetEntityPosition(entity = $obj1), time = 1200)
+}

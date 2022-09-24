@@ -1,0 +1,7 @@
+BLOCK_TOUCH {
+	Damage(damage = 50, entity = $obj1)
+}
+
+BLOCK_ON {
+	Damage(damage = 70, entity = $obj1)
+}

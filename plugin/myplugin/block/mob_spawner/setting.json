@@ -1,0 +1,64 @@
+{
+  "breakBlockSound": {
+    "attenuationType": "0",
+    "is3dSound": true,
+    "loop": false,
+    "losslessDistance": 3,
+    "maxDistance": 10,
+    "multiPly": 1,
+    "path": "asset/Sound/Broken.mp3",
+    "selfOnly": false,
+    "sound": "@Sound/Broken.mp3",
+    "volume": 0.03
+  },
+  "breakTime": 100,
+  "canClick": false,
+  "candrop": true,
+  "canSwim": false,
+  "climbSpeed": 0,
+  "collisionBoxes": [
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "dropCount": 1,
+  "dropSelf": false,
+  "fall": false,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500,
+  "placeBlockSound": {
+    "attenuationType": "0",
+    "is3dSound": true,
+    "loop": false,
+    "losslessDistance": 3,
+    "maxDistance": 10,
+    "multiPly": 1,
+    "path": "asset/Sound/Trap.mp3",
+    "selfOnly": false,
+    "sound": "@Sound/Trap.mp3",
+    "volume": 1
+  },
+  "recycle": false,
+  "recycleTime": 20,
+  "spring": 0,
+  "texture": [
+    "@asset/Texture/Block/mob_spawner.png",
+    "@asset/Texture/Block/mob_spawner.png",
+    "@asset/Texture/Block/mob_spawner.png",
+    "@asset/Texture/Block/mob_spawner.png",
+    "@asset/Texture/Block/mob_spawner.png",
+    "@asset/Texture/Block/mob_spawner.png"
+  ]
+}

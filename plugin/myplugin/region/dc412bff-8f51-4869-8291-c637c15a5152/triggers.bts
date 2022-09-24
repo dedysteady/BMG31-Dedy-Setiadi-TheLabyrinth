@@ -1,0 +1,11 @@
+REGION_ENTER {
+	RemoveSkill(entity = $obj1, name = "myplugin/ee85832e-17df-434a-949d-9a7d44bb16c7")
+	AddEntityBuff(cfg = "myplugin/LobbyTheme", entity = $obj1)
+	RemoveBuffByFullName(buff = "myplugin/MusicID", entity = $obj1, toTeam = false)
+}
+
+REGION_LEAVE {
+	AddSkill(entity = $obj1, name = "myplugin/ee85832e-17df-434a-949d-9a7d44bb16c7")
+	AddEntityBuff(cfg = "myplugin/MusicID", entity = $obj1)
+	RemoveBuffByFullName(buff = "myplugin/LobbyTheme", entity = $obj1, toTeam = false)
+}

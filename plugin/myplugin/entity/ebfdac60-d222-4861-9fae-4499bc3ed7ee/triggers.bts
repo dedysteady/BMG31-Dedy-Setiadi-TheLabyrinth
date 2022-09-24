@@ -1,0 +1,4 @@
+ENTITY_DIE {
+	AddEntityHp(entity = $obj2, step = 20)
+	AddSkill(entity = $obj2, name = "myplugin/Tornado")
+}

@@ -1,0 +1,30 @@
+ENTITY_DIE {
+	AddItem(cfg = "myplugin/Tembok", count = 1, entity = $obj2, reason = "")
+	ReviveEntity(
+		entity = $obj1,
+		pos = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 40,
+				y = 51,
+				z = -6
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 22,
+				y = 51,
+				z = -15
+			}
+		}
+	)
+	)
+	RemoveSkill(entity = $obj1, name = "myplugin/Punch")
+	RemoveSkill(entity = $obj1, name = "myplugin/Tornado")
+	RemoveBuffByFullName(buff = "myplugin/MusicID", entity = $obj1, toTeam = false)
+}
+
+GAME_READY {
+	ShowTip(entity = $obj1, keepTime = 300, textKey = "beb46eeb-4106-4c1c-9776-6249887d892f", tipType = "1")
+}

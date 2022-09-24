@@ -1,0 +1,3 @@
+BLOCK_TOUCH {
+	ReviveEntity(entity = $obj1, pos = { x = 2, y = 53, z = 53.0 })
+}

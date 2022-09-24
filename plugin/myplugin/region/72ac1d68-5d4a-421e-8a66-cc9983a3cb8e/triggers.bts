@@ -1,0 +1,3 @@
+REGION_ENTER {
+	SetHeadText(entity = $obj1, headText = GetEntityName(entity = $obj1), x = 0, y = 0)
+}
