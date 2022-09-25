@@ -25,7 +25,7 @@
     "path": "asset/Sound/Waiting Theme.mp3",
     "selfOnly": true,
     "sound": "@Sound/Waiting Theme.mp3",
-    "volume": 1
+    "volume": 0.7
   },
   "sync": "all",
   "unassailable": 0,

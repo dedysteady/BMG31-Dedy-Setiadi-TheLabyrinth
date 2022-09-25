@@ -97,7 +97,7 @@
   "nextChaseInterval": 2,
   "patrolDistance": 20,
   "randomPlayDeadActions": [
-    ""
+    "die"
   ],
   "reachDistance": 6.5,
   "reviveTime": 300,

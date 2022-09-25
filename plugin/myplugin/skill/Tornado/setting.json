@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "comboAttack1",
+  "castAction": "comboAttack3",
   "castActionTime": -1,
   "castEffect": {
     "effect": "asset/effect/Purple Dark Power Effect/gfxy_dark force_purple.effect",

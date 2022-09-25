@@ -23,6 +23,12 @@ ENTITY_DIE {
 	RemoveSkill(entity = $obj1, name = "myplugin/Punch")
 	RemoveSkill(entity = $obj1, name = "myplugin/Tornado")
 	RemoveBuffByFullName(buff = "myplugin/MusicID", entity = $obj1, toTeam = false)
+	ShowTip(
+		entity = $obj2,
+		keepTime = 100,
+		textKey = Concat(p1 = GetEntityName(entity = $obj1), p2 = " Kembali ke Lobby"),
+		tipType = "2"
+	)
 }
 
 GAME_READY {

@@ -332,7 +332,9 @@
       "attributes": [],
       "children": [
         {
-          "attributes": [],
+          "attributes": {
+            "ui": "dddd"
+          },
           "class": "SceneUI",
           "customProperties": [],
           "properties": {

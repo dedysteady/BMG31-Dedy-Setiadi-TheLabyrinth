@@ -91,7 +91,7 @@
   "gravity": 0.08,
   "headPic": "",
   "hideHolder": false,
-  "hideHp": 1,
+  "hideHp": 0,
   "hideName": false,
   "homeSize": 10,
   "hpBarColor": 4294967551,
@@ -120,7 +120,7 @@
   "needCheckTouch": true,
   "patrolDistance": 5,
   "randomPlayDeadActions": [
-    "die_front"
+    "diesss"
   ],
   "reachDistance": 6.5,
   "reviveTime": 0,

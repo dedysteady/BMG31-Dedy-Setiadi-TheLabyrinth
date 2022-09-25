@@ -25,7 +25,7 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "comboAttack3",
+  "castAction": "attack",
   "castActionTime": -1,
   "castEffect": {
     "effect": "asset/effect/Yellow Fist Effect/gfxy207_fist flame_01_orange_3d.effect",
