@@ -8,3 +8,14 @@
 
 This repository for Blockman Go Project and Production Plan from starting the project until finish the project.
 
+## Polishing
+
+Username : Dedysteady
+ID : 468553343
+Game : The Labyrinth
+
+Link Youtube : [https://youtu.be/AW6qirGmQjs](https://youtu.be/AW6qirGmQjs)
+
+Link Github : [https://github.com/dedysteady/BMG31-Dedy-Setiadi-TheLabyrinth/tree/Polishing](https://github.com/dedysteady/BMG31-Dedy-Setiadi-TheLabyrinth/tree/Polishing)
+
+
