@@ -32,5 +32,5 @@ ENTITY_DIE {
 }
 
 GAME_READY {
-	ShowTip(entity = $obj1, keepTime = 300, textKey = "beb46eeb-4106-4c1c-9776-6249887d892f", tipType = "1")
+	ShowTip(entity = $obj1, keepTime = 400, textKey = "beb46eeb-4106-4c1c-9776-6249887d892f", tipType = "1")
 }
