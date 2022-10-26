@@ -18,4 +18,4 @@ Link Youtube : [https://youtu.be/AW6qirGmQjs](https://youtu.be/AW6qirGmQjs)
 
 Link Github : [https://github.com/dedysteady/BMG31-Dedy-Setiadi-TheLabyrinth/tree/Polishing](https://github.com/dedysteady/BMG31-Dedy-Setiadi-TheLabyrinth/tree/Polishing)
 
-
+Link Blockman GO : [https://pc.blockmanmobile.com/#/game-details/g2431944g?onlineNumber=63](https://pc.blockmanmobile.com/#/game-details/g2431944g?onlineNumber=63)
